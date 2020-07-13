@@ -1,6 +1,12 @@
-# Simple Grid library support.
-This is a responsive library support.
+### Simple Grid library support.
 
-To use this library you need a solid knowledge of HTML and CSS.
+#### Introduction:
+```
+- This is a responsive library support. 
+Support for faster, more efficient interface construction, 
+easier maintenance and development, and less time.
 
-Supported by Founder F8 (Dang Ngoc Son).
+- To use this library you need a solid knowledge of HTML and CSS.
+```
+
+##### Supported by Founder Fullstack - Nothing is impossible. (Dang Ngoc Son).
