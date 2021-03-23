@@ -8,5 +8,3 @@ easier maintenance and development, and less time.
 
 - To use this library you need a solid knowledge of HTML and CSS.
 ```
-
-##### Supported by Founder Fullstack - Nothing is impossible. (Dang Ngoc Son).
